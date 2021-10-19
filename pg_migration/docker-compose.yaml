@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  app:
+    image: davisouza/rust:dev
+    container_name: app
+    working_dir: /app/
+    volumes:
+      - ./:/app/:consistent
+  app-db:
+    image: postgres:13-alpine
+    container_name: app-db
+    environment:
+      POSTGRES_DB: app-db
+      POSTGRES_USER: app-db
+      POSTGRES_PASSWORD: app-db
+    ports:
+      - 5432:5432
+    volumes:
+      - ./db-data/:/var/lib/postgresql/data/:consistent

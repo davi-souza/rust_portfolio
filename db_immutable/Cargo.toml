@@ -1,0 +1,21 @@
+[package]
+name = "db-immutable"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "3.3.2"
+chrono = { version = "0.4.19", features = ["serde"] }
+env_logger = "0.8.4"
+failure = "0.1.8"
+# futures = "0.3.15"
+num_cpus = "1.13.0"
+r2d2 = "0.8.9"
+r2d2_sqlite = "0.18.0"
+rusqlite = "0.25.3"
+serde = { version = "1.0.126", features = ["derive"] }
+serde_json = "1.0.64"
+uuid = { version = "0.8", features = ["serde", "v4"] }

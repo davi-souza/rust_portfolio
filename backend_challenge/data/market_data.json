@@ -1,0 +1,365 @@
+[
+    {
+        "id": 1,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T08:00:00",
+        "feed_price": 100,
+        "vwap_price": 50,
+        "overall_price": 75
+    },
+    {
+        "id": 2,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T09:00:00",
+        "feed_price": 90,
+        "vwap_price": 40,
+        "overall_price": 70
+    },
+    {
+        "id": 3,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T10:00:00",
+        "feed_price": 85,
+        "vwap_price": 35,
+        "overall_price": 70
+    },
+    {
+        "id": 4,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T11:00:00",
+        "feed_price": 110,
+        "vwap_price": 55,
+        "overall_price": 80
+    },
+    {
+        "id": 5,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T12:00:00",
+        "feed_price": 120,
+        "vwap_price": 60,
+        "overall_price": 82
+    },
+    {
+        "id": 6,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T13:00:00",
+        "feed_price": 120,
+        "vwap_price": 62,
+        "overall_price": 85
+    },
+    {
+        "id": 7,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T14:00:00",
+        "feed_price": 110,
+        "vwap_price": 55,
+        "overall_price": 80
+    },
+    {
+        "id": 8,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T15:00:00",
+        "feed_price": 130,
+        "vwap_price": 70,
+        "overall_price": 90
+    },
+    {
+        "id": 9,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T16:00:00",
+        "feed_price": 130,
+        "vwap_price": 60,
+        "overall_price": 90
+    },
+    {
+        "id": 10,
+        "provider": "cboe",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T17:00:00",
+        "feed_price": 120,
+        "vwap_price": 50,
+        "overall_price": 60
+    },
+
+    {
+        "id": 11,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T08:00:00",
+        "feed_price": 90,
+        "vwap_price": 50,
+        "overall_price": 50
+    },
+    {
+        "id": 12,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T09:00:00",
+        "feed_price": 100,
+        "vwap_price": 55,
+        "overall_price": 55
+    },
+    {
+        "id": 13,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T10:00:00",
+        "feed_price": 110,
+        "vwap_price": 60,
+        "overall_price": 60
+    },
+    {
+        "id": 14,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T11:00:00",
+        "feed_price": 120,
+        "vwap_price": 65,
+        "overall_price": 65
+    },
+    {
+        "id": 15,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T12:00:00",
+        "feed_price": 120,
+        "vwap_price": 65,
+        "overall_price": 65
+    },
+    {
+        "id": 16,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T13:00:00",
+        "feed_price": 110,
+        "vwap_price": 60,
+        "overall_price": 60
+    },
+    {
+        "id": 17,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T14:00:00",
+        "feed_price": 100,
+        "vwap_price": 55,
+        "overall_price": 55
+    },
+    {
+        "id": 18,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T15:00:00",
+        "feed_price": 90,
+        "vwap_price": 50,
+        "overall_price": 50
+    },
+    {
+        "id": 19,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T16:00:00",
+        "feed_price": 80,
+        "vwap_price": 40,
+        "overall_price": 40
+    },
+    {
+        "id": 20,
+        "provider": "cboe",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T17:00:00",
+        "feed_price": 70,
+        "vwap_price": 30,
+        "overall_price": 30
+    },
+
+    {
+        "id": 21,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T08:00:00",
+        "feed_price": 90,
+        "vwap_price": 50,
+        "overall_price": 50
+    },
+    {
+        "id": 22,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T09:00:00",
+        "feed_price": 100,
+        "vwap_price": 55,
+        "overall_price": 55
+    },
+    {
+        "id": 23,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T10:00:00",
+        "feed_price": 110,
+        "vwap_price": 60,
+        "overall_price": 60
+    },
+    {
+        "id": 24,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T11:00:00",
+        "feed_price": 120,
+        "vwap_price": 65,
+        "overall_price": 65
+    },
+    {
+        "id": 25,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T12:00:00",
+        "feed_price": 120,
+        "vwap_price": 65,
+        "overall_price": 65
+    },
+    {
+        "id": 26,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T13:00:00",
+        "feed_price": 110,
+        "vwap_price": 60,
+        "overall_price": 60
+    },
+    {
+        "id": 27,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T14:00:00",
+        "feed_price": 100,
+        "vwap_price": 55,
+        "overall_price": 55
+    },
+    {
+        "id": 28,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T15:00:00",
+        "feed_price": 90,
+        "vwap_price": 50,
+        "overall_price": 50
+    },
+    {
+        "id": 29,
+        "provider": "ubs",
+        "pair": "eur_gbp",
+        "timestamp": "2020-11-02T16:00:00",
+        "feed_price": 80,
+        "vwap_price": 40,
+        "overall_price": 40
+    },
+    {
+        "id": 30,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T17:00:00",
+        "feed_price": 70,
+        "vwap_price": 30,
+        "overall_price": 30
+    },
+
+    {
+        "id": 31,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T08:00:00",
+        "feed_price": 100,
+        "vwap_price": 50,
+        "overall_price": 75
+    },
+    {
+        "id": 32,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T09:00:00",
+        "feed_price": 90,
+        "vwap_price": 40,
+        "overall_price": 70
+    },
+    {
+        "id": 33,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T10:00:00",
+        "feed_price": 85,
+        "vwap_price": 35,
+        "overall_price": 70
+    },
+    {
+        "id": 34,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T11:00:00",
+        "feed_price": 110,
+        "vwap_price": 55,
+        "overall_price": 80
+    },
+    {
+        "id": 35,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T12:00:00",
+        "feed_price": 120,
+        "vwap_price": 60,
+        "overall_price": 82
+    },
+    {
+        "id": 36,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T13:00:00",
+        "feed_price": 120,
+        "vwap_price": 62,
+        "overall_price": 85
+    },
+    {
+        "id": 37,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T14:00:00",
+        "feed_price": 110,
+        "vwap_price": 55,
+        "overall_price": 80
+    },
+    {
+        "id": 38,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T15:00:00",
+        "feed_price": 130,
+        "vwap_price": 70,
+        "overall_price": 90
+    },
+    {
+        "id": 39,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T16:00:00",
+        "feed_price": 130,
+        "vwap_price": 60,
+        "overall_price": 90
+    },
+    {
+        "id": 40,
+        "provider": "ubs",
+        "pair": "eur_usd",
+        "timestamp": "2020-11-02T17:00:00",
+        "feed_price": 120,
+        "vwap_price": 50,
+        "overall_price": 60
+    }
+]
